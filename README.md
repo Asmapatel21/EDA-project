@@ -1,6 +1,4 @@
- analysis on hotel booking 
-
-Hotel Bookings Data Analysis
+Hotel Bookings Exploratory Data Analysis
 
  Objective
 
